@@ -1,0 +1,8 @@
+# Relatorios locais (podem incluir IPs, usuarios, caminhos e evidencias sensiveis)
+auditoria-linux-*/
+
+# Artefatos temporarios
+*.swp
+*.swo
+*~
+.DS_Store
